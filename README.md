@@ -9,3 +9,5 @@ OS: Windows
 <br><br>
 
 **Alpha-Phase**
+<br>
+Pre-Release v1.0 available
