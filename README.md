@@ -8,6 +8,4 @@ News and Update Status here: https://github.com/artgey/PulseNova/projects
 OS: Windows
 <br><br>
 
-**Pre-Alpha-Phase**
-
-**Alpha Phase .....coming soon**
+**Alpha-Phase**
